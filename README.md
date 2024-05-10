@@ -31,3 +31,5 @@
 <br/>
 ## CodeWars Stats
 ![codewars](https://www.codewars.com/users/CodeVisionEvgen/badges/large)
+
+![Open CodeWars Profile](https://www.codewars.com/users/CodeVisionEvgen)
