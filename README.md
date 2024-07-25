@@ -1,4 +1,16 @@
-<h1 align="center">―Skills―</h1>
+<h1 align="center">Hi 👋, I'm Evheniy Homenyuk</h1>
+<h2 align="center">Fullstack developer</h2>
+
+![AccountCreated](https://img.shields.io/github/created-at/codevisionevgen/codevisionevgen?style=for-the-badge&labelColor=%23222&color=%23931be3)
+
+<ul>
+  <li>🔭 Actively looking for work</li>
+  <li>💬 Ask me about <b>Anything JavaScript</b></li>
+</ul>
+<hr/>
+
+<h2>Languages and Tools:</h2>
+
 ![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ESP](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
