@@ -1,15 +1,17 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codevisionevgen" alt="codevisionevgen" /> </p>
 <h1 align="center">Hi 👋, I'm Evheniy Homenyuk</h1>
-<h2 align="center">Fullstack developer</h2>
+<h3 align="center">Fullstack developer</h3>
+
+### About me
+- 🔭 Actively looking for work
+- 💬 Ask me about **Anything JavaScript**
 
 ![AccountCreated](https://img.shields.io/github/created-at/codevisionevgen/codevisionevgen?style=for-the-badge&labelColor=%23222&color=%23931be3)
+<h5>📫 How to reach me:</h5>
 
-<ul>
-  <li>🔭 Actively looking for work</li>
-  <li>💬 Ask me about <b>Anything JavaScript</b></li>
-</ul>
-<hr/>
+<a href="https://www.linkedin.com/in/evheniy-homenyuk-611b552b8">![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<h2>Languages and Tools:</h2>
+<h3>Languages and Tools:</h3>
 
 ![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ESP](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -35,14 +37,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-## GitHub Stats:
+### GitHub Stats:
 ![CodeVisionEvgen GitHub stats](https://github-readme-stats.vercel.app/api?username=codevisionevgen&show_icons=true&theme=tokyonight)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codevisionevgen&theme=tokyonight&layout=compact)](https://github.com/codevisionevgen/github-readme-stats) 
 <br/>
 <br/>
 <br/>
-## CodeWars Stats
+### CodeWars Stats
 ![codewars](https://www.codewars.com/users/CodeVisionEvgen/badges/large)
 
 [Open CodeWars Profile](https://www.codewars.com/users/CodeVisionEvgen)
