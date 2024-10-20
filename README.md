@@ -3,7 +3,6 @@
 <h3 align="center">Fullstack developer</h3>
 
 ### About me
-- 🔭 Actively looking for work
 - 💬 Ask me about **Anything JavaScript**
 
 ![AccountCreated](https://img.shields.io/github/created-at/codevisionevgen/codevisionevgen?style=for-the-badge&labelColor=%23222&color=%23931be3)
